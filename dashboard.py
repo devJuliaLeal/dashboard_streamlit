@@ -13,7 +13,7 @@ de proficiência exigidos para os trabalhos. A dashboard fornecerá uma visão
 resumida e compreensível desses requisitos, auxiliando na análise e tomada de 
 decisões relacionadas a oportunidades de emprego na área de desenvolvimento.''')
 
-st.sidebar.text('Tecnologias')set
+st.sidebar.text('Tecnologias')
 st.markdown('Mais informação')
 # interactive = st.beta_container()
 
