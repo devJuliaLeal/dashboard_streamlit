@@ -5,6 +5,7 @@ import numpy as np
 # import plotly.graph_objects as go
 
 
+
 st.header('Bem vindo à minha Dashboard!')
 st.text('''As informações para o dashboard foram coletadas de sites
 na área da computação, incluindo as tecnologias necessárias e os níveis 
