@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "streamlit_app.py",
+      "use": "@fly/now-streamlit",
+      "config": {}
+    }
+  ]
+}
